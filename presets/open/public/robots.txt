@@ -1,6 +1,5 @@
-# Balanced preset
-# Allow search and user-directed retrieval where documented.
-# Block training-oriented crawlers by default.
+# Open preset
+# Allow search, user-directed retrieval, and training-oriented bots.
 
 User-agent: *
 Allow: /
@@ -15,7 +14,7 @@ User-agent: ChatGPT-User
 Allow: /
 
 User-agent: GPTBot
-Disallow: /
+Allow: /
 
 # Anthropic
 User-agent: Claude-SearchBot
@@ -25,7 +24,7 @@ User-agent: Claude-User
 Allow: /
 
 User-agent: ClaudeBot
-Disallow: /
+Allow: /
 
 # Perplexity
 User-agent: PerplexityBot

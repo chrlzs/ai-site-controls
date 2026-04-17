@@ -1,6 +1,5 @@
-# Balanced preset
-# Allow search and user-directed retrieval where documented.
-# Block training-oriented crawlers by default.
+# Conservative preset
+# Allow normal web indexing while blocking AI-specific bots where possible.
 
 User-agent: *
 Allow: /
@@ -9,27 +8,27 @@ Sitemap: https://YOURDOMAIN.com/sitemap.xml
 
 # OpenAI
 User-agent: OAI-SearchBot
-Allow: /
+Disallow: /
 
 User-agent: ChatGPT-User
-Allow: /
+Disallow: /
 
 User-agent: GPTBot
 Disallow: /
 
 # Anthropic
 User-agent: Claude-SearchBot
-Allow: /
+Disallow: /
 
 User-agent: Claude-User
-Allow: /
+Disallow: /
 
 User-agent: ClaudeBot
 Disallow: /
 
 # Perplexity
 User-agent: PerplexityBot
-Allow: /
+Disallow: /
 
 # Common admin/private areas
 User-agent: *

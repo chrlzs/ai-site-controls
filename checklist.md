@@ -1,5 +1,11 @@
 # Pre-Launch Checklist
 
+## Choose your defaults
+
+- [ ] Pick `conservative`, `balanced`, or `open`
+- [ ] Copy the matching preset to your deployed `robots.txt`
+- [ ] Choose the generic, marketing, or docs `llms.txt` starter
+
 ## Replace placeholders
 
 - [ ] Replace `YOURDOMAIN.com`
@@ -10,6 +16,7 @@
 ## Review crawler policy
 
 - [ ] Confirm whether normal search engines should be allowed
+- [ ] Review `crawler-matrix.md` if you changed vendor-specific bot rules
 - [ ] Confirm whether OpenAI crawlers should be allowed or blocked
 - [ ] Confirm whether Anthropic crawlers should be allowed or blocked
 - [ ] Confirm whether Perplexity crawlers should be allowed or blocked
