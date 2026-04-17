@@ -50,13 +50,6 @@ git remote add origin https://github.com/YOUR-USER/YOUR-REPO.git
 git push -u origin main
 ```
 
-## Suggested repo names
-
-- `ai-site-controls-starter`
-- `robots-and-llms-starter`
-- `llms-txt-starter`
-- `site-crawler-policy-starter`
-
 ## Notes
 
 - `robots.txt` is the real control point.
