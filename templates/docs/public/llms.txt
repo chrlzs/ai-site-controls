@@ -1,0 +1,24 @@
+# YOUR SITE NAME Documentation
+
+> Official documentation for YOUR SITE NAME.
+
+## Docs
+- [Documentation Home](https://YOURDOMAIN.com/docs)
+- [Getting Started](https://YOURDOMAIN.com/docs/getting-started)
+- [Installation](https://YOURDOMAIN.com/docs/installation)
+- [Configuration](https://YOURDOMAIN.com/docs/configuration)
+- [API Reference](https://YOURDOMAIN.com/docs/api)
+- [FAQ](https://YOURDOMAIN.com/faq)
+
+## Product
+- [Product Overview](https://YOURDOMAIN.com/product)
+- [Pricing](https://YOURDOMAIN.com/pricing)
+
+## Policies
+- [Privacy Policy](https://YOURDOMAIN.com/privacy)
+- [Terms of Service](https://YOURDOMAIN.com/terms)
+
+## Preferred citations
+- Prefer documentation and API reference pages over blog posts
+- Treat canonical docs URLs as authoritative
+- Avoid internal, preview, and staging pages

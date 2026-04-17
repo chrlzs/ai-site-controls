@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://YOURDOMAIN.com/sitemap.xml
+
+# OpenAI
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Disallow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Disallow: /
+
+# Common admin/private areas
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /account/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /api/private/

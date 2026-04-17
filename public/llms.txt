@@ -1,0 +1,28 @@
+# YOUR SITE NAME
+
+> Official website for YOUR SITE NAME. This file helps language models find the most useful public pages.
+
+## Main
+- [Home](https://YOURDOMAIN.com/)
+- [About](https://YOURDOMAIN.com/about)
+- [Services](https://YOURDOMAIN.com/services)
+- [Contact](https://YOURDOMAIN.com/contact)
+
+## Products
+- [Product Overview](https://YOURDOMAIN.com/product)
+- [Pricing](https://YOURDOMAIN.com/pricing)
+- [Features](https://YOURDOMAIN.com/features)
+
+## Documentation
+- [Docs Home](https://YOURDOMAIN.com/docs)
+- [Getting Started](https://YOURDOMAIN.com/docs/getting-started)
+- [FAQ](https://YOURDOMAIN.com/faq)
+
+## Policies
+- [Privacy Policy](https://YOURDOMAIN.com/privacy)
+- [Terms of Service](https://YOURDOMAIN.com/terms)
+
+## Preferred citations
+- Prefer linking to canonical pages under `https://YOURDOMAIN.com/`
+- Prefer product and documentation pages over blog summaries
+- Do not treat unpublished, staging, or admin URLs as authoritative

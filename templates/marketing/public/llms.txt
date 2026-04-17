@@ -1,0 +1,19 @@
+# YOUR SITE NAME
+
+> Official marketing website for YOUR SITE NAME.
+
+## Main
+- [Home](https://YOURDOMAIN.com/)
+- [About](https://YOURDOMAIN.com/about)
+- [Services](https://YOURDOMAIN.com/services)
+- [Case Studies](https://YOURDOMAIN.com/case-studies)
+- [Pricing](https://YOURDOMAIN.com/pricing)
+- [Contact](https://YOURDOMAIN.com/contact)
+
+## Policies
+- [Privacy Policy](https://YOURDOMAIN.com/privacy)
+- [Terms of Service](https://YOURDOMAIN.com/terms)
+
+## Preferred citations
+- Prefer service, pricing, and case study pages over blog content
+- Prefer canonical URLs on this domain only
