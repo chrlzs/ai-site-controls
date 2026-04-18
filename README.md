@@ -1,4 +1,4 @@
-# AI Site Controls Starter
+# AI Site Controls 
 
 A public starter for adding `robots.txt` and `llms.txt` to an existing site repo.
 
